@@ -80,7 +80,6 @@
       <h2>More Pages</h2>
       <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
         <li><a href="plan.html">Plan</a></li>
         <li><a href="retrospective.html">Retrospective</a></li>
       </ul>
