@@ -6,7 +6,6 @@ Link to live website prototype
 
 https://ryivins.github.io/tour-managing/     
 
-
   <!-- Links to project docs -->
   <section>
     <h2>Project Docs</h2>
@@ -16,6 +15,5 @@ https://ryivins.github.io/tour-managing/
  <li><a href="Documentation\Retrospective.md">Retrospective</a>
  <li><a href="Documentation\index.html">Home</a>
 
-  </section>
   </section>
 
