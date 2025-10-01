@@ -6,14 +6,16 @@ Link to live website prototype
 
 https://ryivins.github.io/tour-managing/     
 
+
   <!-- Links to project docs -->
   <section>
     <h2>Project Docs</h2>
     <ul>
- <li><a href="https://github.com/ryivins/tour-managing/blob/7c25670f4e73b542ad11960aed6e67410c7fd68e/Documentation/plan.md">Plan</a>
- <li><a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/scope.md">Scope</a>
- <li><a href="https://github.com/ryivins/tour-managing/blob/dc9034544a0eb546d8dba34905bb070f28c8a553/Documentation/Retrospective.md">Retrospective</a>
- <li><a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/index.html">Home</a>
+ <li><a href="Documentation\plan.md">Plan</a>
+ <li><a href="Documentation\scope.md">Scope</a>
+ <li><a href="Documentation\Retrospective.md">Retrospective</a>
+ <li><a href="Documentation\index.html">Home</a>
 
+  </section>
   </section>
 
