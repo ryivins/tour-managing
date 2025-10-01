@@ -1,1 +1,37 @@
 
+style.cs
+Art Palette
+Gray green #96a796 Title color
+Olive green ##8c7f44 Background color
+Off white #c4c5b0 Margins
+Green #606547 Body paragraph text
+Dark Gray #2d2b21 Portfolio background
+
+/ General page background and text /
+body {
+background-color: #b9b090; /* Off White */
+color: #5a3313; /* Brown Maroon */
+font-family: Arial, sans-serif;
+margin: 20px;
+}
+
+/ Title /
+h1 {
+color: #2d1f10; /* Dark Brown */
+}
+
+/ Interests list /
+ul {
+margin-left: 20px;
+color: #5a3313; /* Body paragraph text */
+}
+
+/ Box /
+div {
+width: 200px;
+height: 100px;
+background-color: #6e572b; /* Light Brown */
+border: 2px solid black;
+padding: 10px;
+margin: 20px 0;
+}
