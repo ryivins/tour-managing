@@ -10,11 +10,11 @@ https://ryivins.github.io/tour-managing/
   <section>
     <h2>Project Docs</h2>
     <ul>
- <li><a href="Documentation/plan.html">Plan</a>
- <li><a href="Documentation/scope.html">Scope</a>
- <li><a href="Documentation/retrospective.html">Retrospective</a>
- <li><a href="../index.html">Home</a>
- <li> <a href="../about.html">About</a>
+ <li><a href="[Documentation/plan.html](https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/plan.md)">Plan</a>
+ <li><a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/scope.md">Scope</a>
+ <li><a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/Retrospective.md">Retrospective</a>
+ <li><a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/index.html">Home</a>
+ <li> <a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/about.html">About</a>
 
   </section>
-https://github.com/ryivins/tour-managing/tree/50ba5ae1e70dd8f8b51fbf49b6039e9b65a5e465/Documentation 
+
