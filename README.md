@@ -14,7 +14,6 @@ https://ryivins.github.io/tour-managing/
  <li><a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/scope.md">Scope</a>
  <li><a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/Retrospective.md">Retrospective</a>
  <li><a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/index.html">Home</a>
- <li> <a href="https://github.com/ryivins/tour-managing/blob/8c59f859d736e26576a969f860f6be36c9c26d69/Documentation/about.html">About</a>
 
   </section>
 
