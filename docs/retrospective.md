@@ -23,11 +23,15 @@
 
 ---
 
-## More Pages
-- [Home](index.html)  
-- [Plan](plan.html)  
-- [Scope](scope.html)  
-- [Contact](contact.html)  
+## Contents
+- [Scope Statement](./scope.md) — overview, goals, constraints, and acceptance criteria.
+- [Project Plan](./plan.md) — TAME risk analysis and a simple task schedule.
+
+## Live Prototype
+- **Website:** https://ryivins.github.io/tour-managing/
+- **Homepage:** [`/index.html`](../index.html)
+- **About:** [`/about.html`](../about.html)
+- **Contact:** [`/contact.html`](../contact.html)
 ---
 
 © 2025 Rylie

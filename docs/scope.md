@@ -77,12 +77,16 @@
       </ul>
     </section>
 
-   <nav class="card" aria-label="Other pages">
-      <h2>More Pages</h2>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="plan.html">Plan</a></li>
-        <li><a href="retrospective.html">Retrospective</a></li>
+
+## Contents
+- [Project Plan](./plan.md) — TAME risk analysis and a simple task schedule.
+- [Retrospective](./retrospective.md) — what went well, what went wrong, what I’d do differently.
+
+## Live Prototype
+- **Website:** https://ryivins.github.io/tour-managing/
+- **Homepage:** [`/index.html`](../index.html)
+- **About:** [`/about.html`](../about.html)
+- **Contact:** [`/contact.html`](../contact.html)li>
       </ul>
     </nav>
   </main>

@@ -33,9 +33,13 @@ Keep tours running smoothly, within budget, and with strong communication betwee
 | Equipment Backup Planning| Manager/Team | 1 wk before tour | Not Started  | Backup backline / merch       |
 | Regular Reviews          | Manager/Team | Ongoing         | Not Started  | Weekly                        |             | —            | —               | —            | —                             |
 
-## More Pages
-- [Home](index.html)    
-- [Scope](scope.html) 
-- [Retrospective](Retrospective.md) 
-- [Contact](contact.html)  
+## Contents
+- [Scope Statement](./scope.md) — overview, goals, constraints, and acceptance criteria.
+- [Retrospective](./retrospective.md) — what went well, what went wrong, what I’d do differently.
+
+## Live Prototype
+- **Website:** https://ryivins.github.io/tour-managing/
+- **Homepage:** [`/index.html`](../index.html)
+- **About:** [`/about.html`](../about.html)
+- **Contact:** [`/contact.html`](../contact.html)
 ---
