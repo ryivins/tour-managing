@@ -1,17 +1,35 @@
-# Daisy Chain Tour Management 
+# 🎶 Daisy Chain Tour Management
 
-Daisy Chain Tour management provides full-service tour management both on the road and remotely, handling everything from budgeting and itinerary creation to seamless communication with promoters and venues. With extensive experience in logistics, scheduling, and financial oversight, tours will run smoothly and efficiently. My services also include professional photography, merch coverage, and documentation, allowing artists to focus on their craft while I capture the journey and manage the details behind the scenes. 
+Daisy Chain Tour Management provides full-service tour management both on the road and remotely.  
+From **budgeting** and **itinerary creation** to **seamless communication** with promoters and venues, this proposal outlines how tours can run smoothly and efficiently.  
 
-Link to live website prototype 
+In addition to logistics, scheduling, and financial oversight, services include:  
+- Professional photography & media coverage  
+- Merchandise coordination  
+- Detailed documentation  
 
-https://ryivins.github.io/tour-managing/  
+This allows artists to focus on their craft while the details behind the scenes are managed effectively.  
 
-## More Pages
-- [Home](index.html)    
-- [Scope](scope.html) 
-- [Retrospective](Retrospective.md) 
-- [Plan](plan.md)
+---
+
+## 🔗 Live Website Prototype
+👉 [View the live site here](https://ryivins.github.io/tour-managing/)  
+
+---
+
+## 📂 Project Documentation
+All planning documents are located in the `docs/` folder:  
+- [Scope Statement](docs/scope.md)  
+- [Project Plan](docs/plan.md)  
+- [Retrospective](docs/retrospective.md)  
+
+---
+
+## 📄 Website Pages
+- [Home](index.html)  
+- [About](about.html)  
 - [Contact](contact.html)  
 
+---
 
-
+© 2025 Rylie — Daisy Chain Tour Management
