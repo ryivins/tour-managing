@@ -15,5 +15,5 @@ https://ryivins.github.io/tour-managing/
  <li><a href="Documentation\Retrospective.md">Retrospective</a>
  <li><a href="Documentation\index.html">Home</a>
 
-  </section>
+
 
