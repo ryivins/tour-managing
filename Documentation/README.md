@@ -10,10 +10,12 @@ https://ryivins.github.io/tour-managing/
   <section>
     <h2>Project Docs</h2>
     <ul>
- <li><a href="Documentation\plan.md">Plan</a>
- <li><a href="Documentation\scope.md">Scope</a>
- <li><a href="Documentation\Retrospective.md">Retrospective</a>
- <li><a href="Documentation\index.html">Home</a>
+      <li><a href="scope.md">Scope</a></li>
+      <li><a href="plan.md">Plan</a></li>
+      <li><a href="Retrospective.md">Retrospective</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="index.html">Home</a></li>
+
 
   </section>
 

@@ -4,7 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Scope Statement</title>
-  <link rel="stylesheet" href="style.css">
+ <link rel="stylesheet" href="style.css">
+
   <style>
     .cards { display: grid; gap: 16px; }
     .card {
