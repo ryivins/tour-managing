@@ -17,5 +17,5 @@ https://ryivins.github.io/tour-managing/
       <li><a href="index.html">Home</a></li>
 
 
-  </section>
+
 
